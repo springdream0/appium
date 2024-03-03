@@ -12,7 +12,7 @@ desired_caps['appActivity'] = 'com.android.settings.Settings'
 desired_caps['appium:deviceName'] = "4723"
 desired_caps['systemPort'] = "8202"
 
-desired_caps['appium:udid'] = "R3CW307W8ND"
+desired_caps['appium:udid'] = "모바일단말기"
 
 
     
